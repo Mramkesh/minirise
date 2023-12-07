@@ -1,3 +1,3 @@
 # minirise
 this is my first repository
-and than updata
+and than update
