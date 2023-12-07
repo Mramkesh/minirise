@@ -1,2 +1,2 @@
 # minirise
-this is may first repository
+this is my first repository
